@@ -1,10 +1,5 @@
-# Switcheo Code Challenge #1 #
+# Switcheo Code Challenge #
 
-Note that if you fork this repository, your responses may be publicly linked to this repo.  
-Please submit your application along with the solutions attached or linked.   
-
-It is important that you minimally attempt the problems, even if you do not arrive at a working solution.
-
-## Submission ##
-You can either provide a link to an online repository, attach the solution in your application, or whichever method you prefer.
-We're cool as long as we can view your solution without any pain.
+These are my attempts at the questions. 
+I'm not very familiar with JavaScript, and I haven't learned HTML and CSS before. 
+As a result, my attempts may not be well-completed, but I've given it my best effort.
