@@ -1,0 +1,3 @@
+problems:
+1.  the "useEffect" that was used to fetch prices from "Datasource" catches error but does not handle the error
+2.  in "sortedBalances", the variable "lhsPriority" was not defined, seems like it should be "balancePriority" instead
